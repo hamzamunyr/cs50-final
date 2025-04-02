@@ -2,7 +2,7 @@
 
 This is a simple text-based chess game implemented in Python as my CS50 final project.
 
-#### Video Demo:  <URL HERE>
+#### Video Demo:  https://youtu.be/w3KE9TiaXbk
 
 ## Features
 
