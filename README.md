@@ -4,6 +4,8 @@ This is a simple text-based chess game implemented in Python as my CS50 final pr
 
 #### Video Demo:  https://youtu.be/w3KE9TiaXbk
 
+#### Certificate:  https://certificates.cs50.io/52c408a2-f831-4d39-aafe-6c828c60843c.pdf?size=letter
+
 ## Features
 
 * **Two-player gameplay:** Supports two players taking turns.
