@@ -2,6 +2,8 @@
 
 This is a simple text-based chess game implemented in Python as my CS50 final project.
 
+#### Video Demo:  <URL HERE>
+
 ## Features
 
 * **Two-player gameplay:** Supports two players taking turns.
